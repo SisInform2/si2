@@ -1,0 +1,45 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    background: black;
+}
+.logo1{
+    width: 35px;
+    height: 35px;
+}
+.logo2{
+    width: 30%;
+    height: 30%;
+}
+.navbar{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.welcome{
+    padding: 14.5rem 0rem;
+    background: url(img/logo_kelasopacity.jpeg) center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-variant: small-caps;
+}
+
+.reminder{
+    padding: 3rem 0rem;
+    font-variant: small-caps;
+}
+
+.skls{
+    padding: 19rem 0rem;
+    background: url(img/struktur_kelas.jpg) center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-variant: small-caps;
+}
+
+.gmbr1{
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-variant: small-caps;
+}
